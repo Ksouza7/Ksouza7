@@ -1,5 +1,5 @@
 ### Boas vindas ao meu perfil 🖤
-Meu nome é Romulo
+Meu nome é Kaio
 
 - Estou estudando na Alura
 - Estou me desenvolvendo na linguagem JavaScript
@@ -7,7 +7,7 @@ Meu nome é Romulo
 
 - ### Você pode entrar em contato comigo 📫
 
-romulo.lambrt@gmai.com
+fernandeskaio2-7@gail.com
 
 @romuloxx
 
