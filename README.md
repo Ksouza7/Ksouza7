@@ -2,14 +2,14 @@
 Meu nome é Kaio
 
 - Estou estudando na Alura
-- Estou me desenvolvendo na linguagem JavaScript
+- Estou me desenvolvendo na linguagem JavaScrip/Estou no inicio
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
 - ### Você pode entrar em contato comigo 📫
 
-fernandeskaio2-7@gail.com
+*fernandeskaio666@gamil.com*
 
-@KKSOUZA
+Instagram: @KKSOUZA
 
 ![](https://tenor.com/pt-BR/view/nosferatu-horror-classic-vampire-gif-5533366)
 
